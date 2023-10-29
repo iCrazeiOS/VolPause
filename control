@@ -1,0 +1,9 @@
+Package: com.icraze.volpause
+Name: VolPause
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Press both volume buttons to pause/play music
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
